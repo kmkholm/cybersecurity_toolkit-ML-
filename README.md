@@ -140,7 +140,7 @@ Example 4: Internet Device Search
 ═══════════
 
 Shodan (Included):
-• Key: hv44TqZBaVwFPfDMz09m7m2vQKoVADUI
+• Key: hv44TqZBaVwFPfDMz09m7m2v
 • Already configured in the code
 
 ChatGPT (Optional - for AI features):
